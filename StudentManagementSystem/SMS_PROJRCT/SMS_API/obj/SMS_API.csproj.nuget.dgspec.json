@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj": {}
+    "D:\\Sprint2_Team5\\GIT\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj": {
+    "D:\\Sprint2_Team5\\GIT\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj",
+        "projectUniqueName": "D:\\Sprint2_Team5\\GIT\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj",
         "projectName": "SMS_API",
-        "projectPath": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\SMS_API.csproj",
-        "packagesPath": "C:\\Users\\Souvik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Souvik\\source\\repos\\SMS_API\\obj\\",
+        "projectPath": "D:\\Sprint2_Team5\\GIT\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\SMS_API.csproj",
+        "packagesPath": "C:\\Users\\SHIVAM\\.nuget\\packages\\",
+        "outputPath": "D:\\Sprint2_Team5\\GIT\\StudentManagementSystem\\SMS_PROJRCT\\SMS_API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Souvik\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\SHIVAM\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
